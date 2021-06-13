@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Pitam-Poudel
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning further
+- 👋 Hi, I’m @Pitam-Poudel from Nepal.
+- 🌱 I’m currently working as a Android Developer.
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 📫 Reach me at facebook : https://www.facebook.com/pitampoudelsaipu
 
 <!---
 Pitam-Poudel/Pitam-Poudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
